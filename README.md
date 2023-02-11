@@ -1,4 +1,4 @@
-# Data-Analytics-project-Propensity-model-
+# Data-Analytics-project-Propensity-model
 ## **1. Abstract**
 Given historical data of the past 6 months data of 7,20,000 of the PayPal bank customers. We built a propensity model using the historical data given,which tries to predict whether a customers is applicable to get a credit card.
 The analysis done consists of- Using various libraries from viz. Pandas, NumPy, Seaborn, SciKit
